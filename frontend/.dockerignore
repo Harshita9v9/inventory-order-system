@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.cache/
+.vite/
+.next/
+coverage/
+.venv/
+venv/
+env/
+__pycache__/
+*.log
+.git/
+.idea/
+.vscode/
